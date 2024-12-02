@@ -20,7 +20,7 @@ public class Player {
     private Integer age;
     private Integer mp;
     private Integer innings;
-    private Double run;
+    private Integer run;
     private Double ball;
     private Integer highest;
     private Float sr;
