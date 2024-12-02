@@ -21,7 +21,7 @@ public class Player {
     private Integer mp;
     private Integer innings;
     private Integer run;
-    private Double ball;
+    private Integer ball;
     private Integer highest;
     private Float sr;
     private Float average;
@@ -31,7 +31,7 @@ public class Player {
     private Integer duck;
     private Integer fifty;
     private Integer hundred;
-    private Integer twoHundred;
+//    private Integer twoHundred;
     private Integer wicket_taken;
     private Integer ball_delivered;
     private Integer run_as_bowler;
@@ -41,7 +41,7 @@ public class Player {
     private Integer sr_ball; //strike rate of as bowler;
     private Integer fourwicket; //four wicket taken as bowler;
     private Integer plusfourwicket; //more than four wicket taken as bowler;
-    private Double minutesPlayed; //total minutes played in IPL as a player ;
+//    private Double minutesPlayed; //total minutes played in IPL as a player ;
     private String team; // which team he has played ;
 
     public Player(String name) {
