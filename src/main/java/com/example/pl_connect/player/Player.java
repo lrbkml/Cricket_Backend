@@ -37,7 +37,7 @@ public class Player {
     private Integer run_as_bowler;
     private Integer maiden;
     private Integer average_ball; //average as bowler;
-    private Integer economy;
+    private Integer economy; //ball economy
     private Integer sr_ball; //strike rate of as bowler;
     private Integer fourwicket; //four wicket taken as bowler;
     private Integer plusfourwicket; //more than four wicket taken as bowler;
